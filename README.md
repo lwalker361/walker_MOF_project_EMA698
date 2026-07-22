@@ -21,7 +21,7 @@ The full data set(s) are huge. We can download a partial dataset containing only
 - The rest of the dataset is available for download here https://www.ccdc.cam.ac.uk/support-and-resources/downloads
 
 ## Setup instructions:
-- No environment is required
+- Use environment.yml 
 - No API keys are required
 
 ## Running the notebooks:
