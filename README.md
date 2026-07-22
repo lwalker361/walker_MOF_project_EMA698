@@ -1,7 +1,7 @@
 # walker_MOF_project_EMA698
 Final project for EMA6938 on ML of MOF PLD
 
-# Instructions:
+Instructions:
 # The full data set(s) are huge. We can download just the goemetric descriptors file
 # Go to https://zenodo.org/records/15808197
 # Files -> download descriptors.tar.gz
