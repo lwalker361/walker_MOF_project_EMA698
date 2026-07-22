@@ -1,11 +1,11 @@
 # Raw and processed data sets
 
-Directory for holding the MOSAEC-DB subset and processed training data
+Directory for holding the MOSAEC-DB subset and processed training data.
 
 ## Contents:
-Initially should only the goemetric descriptors 
+I am leaving raw and processed data here because files are small <50 MB.
 
-Running 02_EDA_featurization.ipynb, should generate the modeling-ready processed training data
+Otherwise, would require downloading, extracting, copy/pasting main data here. Then running 02_EDA_featurization.ipynb would generate the modeling-ready processed training data.
 
 ### Files:
 

@@ -6,7 +6,7 @@ Final project for EMA6938 - Machine learning applied to the pore-limiting diamet
 Can a random forest trained on geometric descriptors from MOSAEC-DB predict the pore limiting diameter of experimental MOFs with sufficient accuracy to rank candidates for gas separation screening?
 
 ## Instructions for obtaining the dataset used:
-The full data set(s) are huge. We can download a partial dataset containing only the descriptors files.
+The full data set(s) are huge. We can download a partial dataset containing only the descriptors files. The files are small enough that they have been already been commited. If you needed to download fresh versions, follow the instructions below.
 
 - Go to https://zenodo.org/records/15808197
 - Files -> download descriptors.tar.gz
