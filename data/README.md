@@ -4,6 +4,7 @@ Directory for holding the MOSAEC-DB subset and processed training data
 
 ## Contents:
 Initially should only the goemetric descriptors 
+
 Running 02_EDA_featurization.ipynb, should generate the modeling-ready processed training data
 
 ### Files:
