@@ -1,4 +1,4 @@
-# walker_MOF_project_EMA6938
+# Walker_Project_EMA6938
 
 Final project for EMA6938 - Machine learning applied to the pore-limiting diameter of metal-organic frameworks
 
