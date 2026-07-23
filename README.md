@@ -25,7 +25,7 @@ The full data set(s) are huge. We can download a partial dataset containing only
 - No API keys are required
 
 ## Running the notebooks:
-Run the following notebooks in this specific order after GEOM_mosaec-db.csv has been copied to /data:
+Run the following notebooks in this specific order (GEOM_mosaec-db.csv must be in /data):
 1. `01_data_acquisition.ipynb`
 2. `02_eda_featurization.ipynb`
 3. `03_modeling.ipynb`
