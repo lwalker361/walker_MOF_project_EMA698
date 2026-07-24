@@ -1,6 +1,6 @@
 # Walker_Project_EMA6938
 
-Final project for EMA6938 - Machine learning applied to the pore-limiting diameter of metal-organic frameworks
+Final project for EMA6938 - Machine learning prediction of the pore-limiting diameter of metal-organic frameworks
 
 ## The research question:
 Can a random forest trained on geometric descriptors from MOSAEC-DB predict the pore limiting diameter of experimental MOFs with sufficient accuracy to rank candidates for gas separation screening?
@@ -32,4 +32,12 @@ Run the following notebooks in this specific order (GEOM_mosaec-db.csv must be i
 4. `04_results_visualization.ipynb`
 
 ## Brief summary of key results:
-(leave blank for now)
+
+The random forest trained on a reduced feature set of geometric descriptors and grouped by unique MOF ID achieves a high R² and statistically significant predictive accuracy.
+
+Model Performance Summary
+R² Score:     0.8430 (± 0.0125)
+MAE:  0.4397 Å (± 0.0094 Å)
+RMSE: 0.7924 Å (± 0.0402 Å)
+
+![Parity Plot](figures/parity_plot.png)
