@@ -37,15 +37,15 @@ The random forest trained on a reduced feature set of geometric descriptors and 
 
 Model Performance Summary
 
-R² Score:     0.8430 (± 0.0125)
+R² Score: 0.8389 (± 0.0120)
 
-MAE:  0.4397 Å (± 0.0094 Å)
+MAE: 0.4420 Å (± 0.0094 Å)
 
-RMSE: 0.7924 Å (± 0.0402 Å)
+RMSE: 0.8031 Å (± 0.0429 Å)
 
 ![Parity Plot](figures/parity_plot.png)
 
-### Feature abbreviations key
+## Feature abbreviations key
 
 cif = *Crystallographic Information File*
 
@@ -65,11 +65,11 @@ NASA_m^2/cm^3 = *Volumetric Non-Accessible Surface Area (in square meters per cu
 
 NASA_m^2/g = *Gravimetric Non-Accessible Surface Area (in square meters per gram)*
 
-Largest included sphere = *Largest Included Sphere Diameter ($D_i$ / Maximum Cavity Diameter)*
+Largest included sphere = *Largest Included Sphere Diameter (Maximum Cavity Diameter)*
 
-Largest free sphere = *Largest Free Sphere Diameter ($D_f$ / Pore-Limiting Diameter)* TARGET PROPERTY
+Largest free sphere = *Largest Free Sphere Diameter (Pore-Limiting Diameter)* TARGET PROPERTY
 
-Largest included sphere along free sphere path = *Largest Included Sphere Diameter Along Free Sphere Path ($D_{if}$)*
+Largest included sphere along free sphere path = *Largest Included Sphere Diameter Along Free Sphere Path*
 
 AV_A^3 = *Accessible Volume (in cubic Ångströms)*
 
